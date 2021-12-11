@@ -1,5 +1,4 @@
 ---
-layout: 
 title: MINRES Technologies
 ---
 ##Welcome to MINRES Technologies GmbH GitHub Pages
