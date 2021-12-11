@@ -2,7 +2,7 @@
 layout: 
 title: MINRES Technologies
 ---
-**Welcome to MINRES Technologies GmbH GitHub Pages**
+##Welcome to MINRES Technologies GmbH GitHub Pages
 
 This is the jump page to the documentation sites of
 
