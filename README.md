@@ -1,1 +1,1 @@
-# minres..github.io
+# minres.github.io
